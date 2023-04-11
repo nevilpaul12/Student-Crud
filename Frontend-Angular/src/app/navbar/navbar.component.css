@@ -1,0 +1,25 @@
+.nav{
+    background-color: #fff;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    list-style: none;
+    margin: 20px 50px;
+    font-size: 20px;
+}
+
+a:hover{
+    cursor: pointer;
+    color: rgb(77, 167, 203);
+    text-decoration: underline;
+}

@@ -1,0 +1,12 @@
+.main{
+    background-image: url(../Images/back4.jpg);
+    height: 92vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    padding-left: 450px;
+    padding-top: 50px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
